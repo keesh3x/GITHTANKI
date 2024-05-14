@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="CharacterCreationAppearanceVisuals">
+        <node id="root">
+            <children>				
+		<!-- example masc GTY -->
+				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="Bodytype" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+					<attribute id="DefaultSkinColor" type="guid" value="39949ade-52c7-d562-df3f-52da62275e26"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h97303e29g1292g4264g9dedg2c59f07d0215" version="1"/> <!-- Localization name of head -->
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_60a19289-b231-4419-89fc-9337020bd57d"/> <!-- if you do a custom head icon it is referenced here -->
+					<attribute id="RaceUUID" type="guid" value="2167de3b-a02f-4c7c-9290-2bae2f2a01c5"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="36644703-8f27-4196-bee5-b6385ea922c5"/>
+					<attribute id="VisualResource" type="guid" value="64d604f4-f9a0-42a5-923a-852f3658bd3a"/> <!-- same as in head merged.lsf under VisualBank -->
+				</node>			
+				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="Bodytype" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+					<attribute id="DefaultSkinColor" type="guid" value="39949ade-52c7-d562-df3f-52da62275e26"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h5551169cg26f0g4c08g8915ga54c89f1951a" version="1"/> <!-- Localization name of head -->
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_60a19289-b231-4419-89fc-9337020bd57d"/> <!-- if you do a custom head icon it is referenced here -->
+					<attribute id="RaceUUID" type="guid" value="2167de3b-a02f-4c7c-9290-2bae2f2a01c5"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="d1d621b9-bc25-4b7b-8103-b857bffb66e7"/>
+					<attribute id="VisualResource" type="guid" value="3dfb3495-b082-47b5-924b-22f793efca79"/> <!-- same as in head merged.lsf under VisualBank -->
+				</node>
+				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="Bodytype" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+					<attribute id="DefaultSkinColor" type="guid" value="39949ade-52c7-d562-df3f-52da62275e26"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h448f7b28gf111g4ca9gb7bbga6eda79e5fc8" version="1"/> <!-- Localization name of head -->
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_60a19289-b231-4419-89fc-9337020bd57d"/> <!-- if you do a custom head icon it is referenced here -->
+					<attribute id="RaceUUID" type="guid" value="2167de3b-a02f-4c7c-9290-2bae2f2a01c5"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="c147701e-50c7-4508-a1b6-9cf95577f8fe"/>
+					<attribute id="VisualResource" type="guid" value="290edc17-ac7a-486b-bbe3-3a7ce5d4c195"/> <!-- same as in head merged.lsf under VisualBank -->
+				</node>
+				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="Bodytype" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+					<attribute id="DefaultSkinColor" type="guid" value="39949ade-52c7-d562-df3f-52da62275e26"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h7361346fgd172g4996ga9c5g7be53be15331" version="1"/> <!-- Localization name of head -->
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_60a19289-b231-4419-89fc-9337020bd57d"/> <!-- if you do a custom head icon it is referenced here -->
+					<attribute id="RaceUUID" type="guid" value="2167de3b-a02f-4c7c-9290-2bae2f2a01c5"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="e5805970-f569-4997-a969-bf42a5760789"/>
+					<attribute id="VisualResource" type="guid" value="4e6d9c8a-bb54-4965-ae0c-1581111b1d59"/> <!-- same as in head merged.lsf under VisualBank -->
+				</node>
+				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="Bodytype" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+					<attribute id="DefaultSkinColor" type="guid" value="39949ade-52c7-d562-df3f-52da62275e26"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="he59ddc82gec61g4fedga2bcge7c52bbda001" version="1"/> <!-- Localization name of head -->
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_60a19289-b231-4419-89fc-9337020bd57d"/> <!-- if you do a custom head icon it is referenced here -->
+					<attribute id="RaceUUID" type="guid" value="2167de3b-a02f-4c7c-9290-2bae2f2a01c5"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="a2c087d3-d9ae-49e5-9ed3-6cca9ef246e3"/>
+					<attribute id="VisualResource" type="guid" value="8afe0976-5efc-43b1-9b89-ed890470d038"/> <!-- same as in head merged.lsf under VisualBank -->
+				</node>
+				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="Bodytype" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+					<attribute id="DefaultSkinColor" type="guid" value="39949ade-52c7-d562-df3f-52da62275e26"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="hb8aa3e69ge29eg438dgab4dgb68de66a8427" version="1"/> <!-- Localization name of head -->
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_60a19289-b231-4419-89fc-9337020bd57d"/> <!-- if you do a custom head icon it is referenced here -->
+					<attribute id="RaceUUID" type="guid" value="2167de3b-a02f-4c7c-9290-2bae2f2a01c5"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="89beef99-da3d-4d41-8691-ec2d2a46e483"/>
+					<attribute id="VisualResource" type="guid" value="08829cc5-a374-4f84-9c17-d7742b52203c"/> <!-- same as in head merged.lsf under VisualBank -->
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

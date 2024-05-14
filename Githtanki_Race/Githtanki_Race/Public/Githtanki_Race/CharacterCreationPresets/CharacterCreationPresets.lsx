@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="CharacterCreationPresets">
+    <node id="root">
+      <children>
+        <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0" />
+          <attribute id="BodyType" type="uint8" value="1" />
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A" />
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B" />
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A" />
+          <attribute id="RaceUUID" type="guid" value="2167de3b-a02f-4c7c-9290-2bae2f2a01c5" />
+          <attribute id="RootTemplate" type="guid" value="8678a6d3-fe5c-4897-b513-8c0790d8e5f0" />
+          <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000" />
+          <attribute id="UUID" type="guid" value="3115936b-e6a3-4612-a5ae-9d505a6ece51" />
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e" />
+        </node>
+        <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0" />
+          <attribute id="BodyType" type="uint8" value="0" />
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A" />
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B" />
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A" />
+          <attribute id="RaceUUID" type="guid" value="2167de3b-a02f-4c7c-9290-2bae2f2a01c5" />
+          <attribute id="RootTemplate" type="guid" value="fe5baba8-2063-4a8b-b2ca-1ab1570bcc23" />
+          <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000" />
+          <attribute id="UUID" type="guid" value="7f8705f3-4896-4498-ac04-8af49df318c9" />
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
